@@ -1,5 +1,5 @@
-Predictive Maintenance: Machine Failure Classification 🚗🔧
-Overview
+Predictive Maintenance: Machine Failure Classification 🚗🔧                                 
+Overview:
 This project aims to predict machine failures before they happen, using machine learning to classify failures and reduce downtime. ⏳⚙️
 
 Technologies Used 🛠️
